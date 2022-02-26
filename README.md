@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Sangwon 👋
+---
+![header](https://capsule-render.vercel.app/api?type=rounded&color=F7B938&height=150&section=header&text=Let's%20run%20into%20an%20error&animation=twinkling&fontSize=50)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonindev&show_icons=true&theme=gotham)
 
 <!--
 **wonindev/wonindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
